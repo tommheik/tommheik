@@ -64,3 +64,5 @@ Collaboration with T.A. Bubba and L. Ratti.
 - [*Spatio-temporal regularization methods for sparse dynamic tomography*](http://hdl.handle.net/10138/571262) (2024),  
 PhD thesis, University of Helsinki, Finland. Dissertationes Universitatis Helsingiensis 60/2024.  
 [<img src="images/thesis.jpg" height="200" alt="Dissertation cover">](.images/thesis.jpg) 
+
+    <span style="font-size:0.8em;">Last edited May 14, 2024</span>
