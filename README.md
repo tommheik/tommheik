@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Tommi Heikkilä, **Project Researcher**(postdoc) in the LUT University, School of Engineering Sciences (Finland)
+- Tommi Heikkilä, **Project Researcher** (postdoc) in the LUT University, School of Engineering Sciences (Finland)
 - **Working on**: applied math, inverse problems, sparse, nonlinear and/or dynamic tomography, wavelets and shearlets
 - ORCID: [0000-0001-5505-8136](https://orcid.org/0000-0001-5505-8136)
 - LUT University [Research portal](https://research.lut.fi/converis/portal/detail/Person/23714598)
@@ -41,23 +41,28 @@ Collaboration with T.A. Bubba and L. Ratti.
 ## Research :scroll:
 
 - T.A. Bubba, **T.H**, D. Labate & L. Ratti,  
-    <a name="randDynTomo"></a>*Regularization with optimal space-time priors* (2024). 
+    <a name="randDynTomo"></a>*Regularization with optimal space-time priors* (2024).  
     [arXiv:2405.06337](https://arxiv.org/abs/2405.06337)
 
 - J-B. Fest, **T.H**, I. Loris, S. Martin, L. Ratti, S: Rebegoldi & G. Sarnighausen,  
-    *On a fixed point continuation method for a convex optimization problem* (2022). [arXiv:2212.12256](https://arxiv.org/abs/2212.12256)
+    *On a fixed point continuation method for a convex optimization problem* (2022).  
+    Advanced Techniques in Optimization for Machine learning and Imaging (ATOMI), Springer INdAM Series, vol 61, p. 15-30. [DOI:10.1007/978-981-97-6769-4_1](doi.org/10.1007/978-981-97-6769-4_2) | [arXiv:2212.12256](https://arxiv.org/abs/2212.12256)
 
 - **T.H**,  
-    *STEMPO - dynamic X-ray omography phantom* (2022). To appear in *Advanced Techniques in Optimization for Machine learning and Imaging* (ATOMI), Springer INdAM Series. [arXiv:2209.12471](https://arxiv.org/abs/2209.12471)
+    *STEMPO - dynamic X-ray omography phantom* (2022).  
+    Advanced Techniques in Optimization for Machine learning and Imaging (ATOMI), Springer INdAM Series, vol 61, p. 1-14. [DOI:10.1007/978-981-97-6769-4_1](doi.org/10.1007/978-981-97-6769-4_1) | [arXiv:2209.12471](https://arxiv.org/abs/2209.12471)
 
 - T.A. Bubba, G. Easley, **T.H**, D. Labate & J.P. Rodriguez Ayllon,  
-    *Efficient representation of spatio-temporal data using cylindrical shearlets* (2023). Journal of Computational and Applied Mathematics 429, 115206. [DOI:10.1016/j.cam.2023.115206](https://doi.org/10.1016/j.cam.2023.115206)
+    *Efficient representation of spatio-temporal data using cylindrical shearlets* (2023).  
+    Journal of Computational and Applied Mathematics 429, 115206. [DOI:10.1016/j.cam.2023.115206](https://doi.org/10.1016/j.cam.2023.115206)
 
 - T.A. Bubba, **T.H** & S. Siltanen,  
-    *4D dual-tree complex wavelets for time-dependent data* (2021). 21st International Conference on Computational Science and Its Applications (ICCSA), IEEE, p. 146-156. [DOI:10.1109/ICCSA54496.2021.00029](https://doi.org/10.1109/ICCSA54496.2021.00029)
+    *4D dual-tree complex wavelets for time-dependent data* (2021).  
+    21st International Conference on Computational Science and Its Applications (ICCSA), IEEE, p. 146-156. [DOI:10.1109/ICCSA54496.2021.00029](https://doi.org/10.1109/ICCSA54496.2021.00029)
 
 - T.A. Bubba, **T.H**, H. Help, S. Huotari, Y. Salmon & S. Siltanen,  
-    *Sparse dynamic tomography: Shearlet-based approach for iodine perfusion in plant stems* (2020). Inverse Problems 36, 094002. [DOI:10.1088/1361-6420/ab9c15](https://doi.org/10.1088/1361-6420/ab9c15)
+    *Sparse dynamic tomography: Shearlet-based approach for iodine perfusion in plant stems* (2020).  
+    Inverse Problems 36, 094002. [DOI:10.1088/1361-6420/ab9c15](https://doi.org/10.1088/1361-6420/ab9c15)
 
 ## Other :cow:
 
@@ -65,4 +70,5 @@ Collaboration with T.A. Bubba and L. Ratti.
 PhD thesis, University of Helsinki, Finland. Dissertationes Universitatis Helsingiensis 60/2024.  
 [<img src="images/thesis.jpg" height="200" alt="Dissertation cover">](.images/thesis.jpg) 
 
-    <span style="font-size:0.8em;">Last edited May 14, 2024</span>
+---------
+<span style="font-size:0.8em;">Last edited: October 4, 2024</span>
