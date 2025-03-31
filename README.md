@@ -1,4 +1,4 @@
-# Terve / Hello :wave:
+# Moro / Hello :wave:
 
 ## Summary
 
@@ -8,6 +8,10 @@
 - LUT University [Research portal](https://research.lut.fi/converis/portal/detail/Person/23714598)
 
 ## Software :clipboard:
+
+- [WaveletLowRank](https://github.com/tommheik/WaveletLowRank): *Wavelet Domain Local Low-Rank Algorithms*  
+Numerical validation of results in ["MultiResolution Low-Rank Regularization of
+Dynamic Imaging Problems"](#MRLR).
 
 - [randDynTomo](https://github.com/tommheik/randDynTomo): *Statistical inverse learning of randomly sampled dynamic tomograhy*  
 Numerical validation of results in ["Regularization with optimal space-time priors"](#randDynTomo).
@@ -40,17 +44,23 @@ Collaboration with T.A. Bubba and L. Ratti.
 
 ## Research :scroll:
 
+- **T.H**,  
+    <a name="MRLR"></a>*MultiResolution Low-Rank Regularization of Dynamic Imaging Problems* (2025).  
+    [arXiv:2502.20977](https://arxiv.org/abs/2502.20977)
+
 - T.A. Bubba, **T.H**, D. Labate & L. Ratti,  
     <a name="randDynTomo"></a>*Regularization with optimal space-time priors* (2024).  
     [arXiv:2405.06337](https://arxiv.org/abs/2405.06337)
 
 - J-B. Fest, **T.H**, I. Loris, S. Martin, L. Ratti, S: Rebegoldi & G. Sarnighausen,  
     *On a fixed point continuation method for a convex optimization problem* (2022).  
-    Advanced Techniques in Optimization for Machine learning and Imaging (ATOMI), Springer INdAM Series, vol 61, p. 15-30. [DOI:10.1007/978-981-97-6769-4_1](doi.org/10.1007/978-981-97-6769-4_2) | [arXiv:2212.12256](https://arxiv.org/abs/2212.12256)
+    Advanced Techniques in Optimization for Machine learning and Imaging (ATOMI), 
+    Springer INdAM Series, vol 61, p. 15-30. [DOI:10.1007/978-981-97-6769-4_1]("https://doi.org/10.1007/978-981-97-6769-4_2") | [arXiv:2212.12256](https://arxiv.org/abs/2212.12256)
 
 - **T.H**,  
     *STEMPO - dynamic X-ray omography phantom* (2022).  
-    Advanced Techniques in Optimization for Machine learning and Imaging (ATOMI), Springer INdAM Series, vol 61, p. 1-14. [DOI:10.1007/978-981-97-6769-4_1](doi.org/10.1007/978-981-97-6769-4_1) | [arXiv:2209.12471](https://arxiv.org/abs/2209.12471)
+    Advanced Techniques in Optimization for Machine learning and Imaging (ATOMI), 
+    Springer INdAM Series, vol 61, p. 1-14. [DOI:10.1007/978-981-97-6769-4_1]("https://doi.org/10.1007/978-981-97-6769-4_1") | [arXiv:2209.12471](https://arxiv.org/abs/2209.12471)
 
 - T.A. Bubba, G. Easley, **T.H**, D. Labate & J.P. Rodriguez Ayllon,  
     *Efficient representation of spatio-temporal data using cylindrical shearlets* (2023).  
@@ -71,4 +81,4 @@ PhD thesis, University of Helsinki, Finland. Dissertationes Universitatis Helsin
 [<img src="images/thesis.jpg" height="200" alt="Dissertation cover">](.images/thesis.jpg) 
 
 ---------
-<span style="font-size:0.8em;">Last edited: October 4, 2024</span>
+<span style="font-size:0.8em;">Last edited: March 31, 2025</span>
