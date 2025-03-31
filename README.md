@@ -55,12 +55,12 @@ Collaboration with T.A. Bubba and L. Ratti.
 - J-B. Fest, **T.H**, I. Loris, S. Martin, L. Ratti, S: Rebegoldi & G. Sarnighausen,  
     *On a fixed point continuation method for a convex optimization problem* (2022).  
     Advanced Techniques in Optimization for Machine learning and Imaging (ATOMI), 
-    Springer INdAM Series, vol 61, p. 15-30. [DOI:10.1007/978-981-97-6769-4_1]("https://doi.org/10.1007/978-981-97-6769-4_2") | [arXiv:2212.12256](https://arxiv.org/abs/2212.12256)
+    Springer INdAM Series, vol 61, p. 15-30. [DOI:10.1007/978-981-97-6769-4_1](https://doi.org/10.1007/978-981-97-6769-4_2) | [arXiv:2212.12256](https://arxiv.org/abs/2212.12256)
 
 - **T.H**,  
     *STEMPO - dynamic X-ray omography phantom* (2022).  
     Advanced Techniques in Optimization for Machine learning and Imaging (ATOMI), 
-    Springer INdAM Series, vol 61, p. 1-14. [DOI:10.1007/978-981-97-6769-4_1]("https://doi.org/10.1007/978-981-97-6769-4_1") | [arXiv:2209.12471](https://arxiv.org/abs/2209.12471)
+    Springer INdAM Series, vol 61, p. 1-14. [DOI:10.1007/978-981-97-6769-4_1](https://doi.org/10.1007/978-981-97-6769-4_1) | [arXiv:2209.12471](https://arxiv.org/abs/2209.12471)
 
 - T.A. Bubba, G. Easley, **T.H**, D. Labate & J.P. Rodriguez Ayllon,  
     *Efficient representation of spatio-temporal data using cylindrical shearlets* (2023).  
