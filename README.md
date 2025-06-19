@@ -45,8 +45,7 @@ Collaboration with T.A. Bubba and L. Ratti.
 ## Research :scroll:
 
 - **T.H**,  
-    <a name="MRLR"></a>*MultiResolution Low-Rank Regularization of Dynamic Imaging Problems* (2025).  
-    [arXiv:2502.20977](https://arxiv.org/abs/2502.20977)
+    <a name="MRLR"></a>*MultiResolution Low-Rank Regularization of Dynamic Imaging Problems* (2025).  Scale Space and Variational Methods in Computer Vision. SSVM 2025. Lecture Notes in Computer Science, vol 15667. Springer. [DOI:10.1007/978-3-031-92366-1_6](https://doi.org/10.1007/978-3-031-92366-1_6) | [arXiv:2502.20977](https://arxiv.org/abs/2502.20977)
 
 - T.A. Bubba, **T.H**, D. Labate & L. Ratti,  
     <a name="randDynTomo"></a>*Regularization with optimal space-time priors* (2024).  
@@ -81,4 +80,4 @@ PhD thesis, University of Helsinki, Finland. Dissertationes Universitatis Helsin
 [<img src="images/thesis.jpg" height="200" alt="Dissertation cover">](.images/thesis.jpg) 
 
 ---------
-<span style="font-size:0.8em;">Last edited: March 31, 2025</span>
+<span style="font-size:0.8em;">Last edited: June 19, 2025</span>
