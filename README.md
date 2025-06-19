@@ -1,4 +1,4 @@
-# Terve / Hello :wave:
+# Moro / Hello :wave:
 
 ## Summary
 
@@ -46,7 +46,7 @@ Collaboration with T.A. Bubba and L. Ratti.
 
 - **T.H**,  
     <a name="MRLR"></a>*MultiResolution Low-Rank Regularization of Dynamic Imaging Problems* (2025).  
-    [arXiv:](https://arxiv.org/abs/missing)
+    [arXiv:2502.20977](https://arxiv.org/abs/2502.20977)
 
 - T.A. Bubba, **T.H**, D. Labate & L. Ratti,  
     <a name="randDynTomo"></a>*Regularization with optimal space-time priors* (2024).  
@@ -81,4 +81,4 @@ PhD thesis, University of Helsinki, Finland. Dissertationes Universitatis Helsin
 [<img src="images/thesis.jpg" height="200" alt="Dissertation cover">](.images/thesis.jpg) 
 
 ---------
-<span style="font-size:0.8em;">Last edited: February 28, 2025</span>
+<span style="font-size:0.8em;">Last edited: March 31, 2025</span>
