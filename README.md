@@ -46,6 +46,10 @@ See also: ["Efficient representation of spatio-temporal data using cylindrical s
 
 ## Research :scroll:
 
+1. **T.H**, S. Heikkinen, R. Rimppi & T. Helin,  
+    <a name="neural_something"></a>*Robust Model-Based Iteration for Passive Gamma Emission Tomography* (2026).  
+    [arXiv:2604.26745](https://arxiv.org/abs/2604.26745)
+
 1. T.A. Bubba, **T.H**, D. Labate & L. Ratti,  
     <a name="randDynTomo"></a>*Regularization with optimal space-time priors* (2025).  
     SIAM Journal on Imaging Sciences, 18(3), 1563-1600.
@@ -85,4 +89,4 @@ PhD thesis, University of Helsinki, Finland. Dissertationes Universitatis Helsin
 [<img src="images/thesis.jpg" height="200" alt="Dissertation cover">](.images/thesis.jpg) 
 
 ---------
-<span style="font-size:0.8em;">Last edited: July 13, 2025</span>
+<span style="font-size:0.8em;">Last edited: May 4, 2026</span>
