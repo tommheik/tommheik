@@ -46,39 +46,43 @@ See also: ["Efficient representation of spatio-temporal data using cylindrical s
 
 ## Research :scroll:
 
-1. **T.H**, S. Heikkinen, R. Rimppi & T. Helin,  
-    <a name="neural_something"></a>*Robust Model-Based Iteration for Passive Gamma Emission Tomography* (2026).  
-    [arXiv:2604.26745](https://arxiv.org/abs/2604.26745)
+1. **T.H**, T. Helin, S. Holman, S.R. Jathar & J. Railo  
+    <a name="pgetStability"></a>*Singular Stability Estimates for Passive Gamma Emission Tomography* (2026).  
+    [arXiv:2610.26276](http://arxiv.org/abs/2610.26276)
 
-1. T.A. Bubba, **T.H**, D. Labate & L. Ratti,  
+2. **T.H**, S. Heikkinen, R. Rimppi & T. Helin,  
+    <a name="neural_something"></a>*Robust Model-Based Iteration for Passive Gamma Emission Tomography* (2026).  
+    IEEE Transactions on Computational Imaging. [DOI:10.1109/TCI.2026.3744280](https://doi.org/10.1109/TCI.2026.3744280) | [arXiv:2604.26745](https://arxiv.org/abs/2604.26745)
+
+3. T.A. Bubba, **T.H**, D. Labate & L. Ratti,  
     <a name="randDynTomo"></a>*Regularization with optimal space-time priors* (2025).  
     SIAM Journal on Imaging Sciences, 18(3), 1563-1600.
     [DOI:10.1137/24M1661923](https://doi.org/10.1137/24M1661923) | [arXiv:2405.06337](https://arxiv.org/abs/2405.06337) | [pdf/ePrint](https://epubs.siam.org/eprint/JYVSVFWNP2ZXCGDVIYNE/full)
 
-1. **T.H**,  
+4. **T.H**,  
     <a name="MRLR"></a>*MultiResolution Low-Rank Regularization of Dynamic Imaging Problems* (2025).  
     Scale Space and Variational Methods in Computer Vision. SSVM 2025.  
     Lecture Notes in Computer Science, vol 15667. Springer. [DOI:10.1007/978-3-031-92366-1_6](https://doi.org/10.1007/978-3-031-92366-1_6) | [arXiv:2502.20977](https://arxiv.org/abs/2502.20977)
 
-1. J-B. Fest, **T.H**, I. Loris, S. Martin, L. Ratti, S: Rebegoldi & G. Sarnighausen,  
+5. J-B. Fest, **T.H**, I. Loris, S. Martin, L. Ratti, S: Rebegoldi & G. Sarnighausen,  
     *On a fixed point continuation method for a convex optimization problem* (2022).  
     Advanced Techniques in Optimization for Machine learning and Imaging (ATOMI), 
     Springer INdAM Series, vol 61, p. 15-30. [DOI:10.1007/978-981-97-6769-4_1](https://doi.org/10.1007/978-981-97-6769-4_2) | [arXiv:2212.12256](https://arxiv.org/abs/2212.12256)
 
-1. **T.H**,  
+6. **T.H**,  
     <a name="stempo"></a>*STEMPO - dynamic X-ray omography phantom* (2022).  
     Advanced Techniques in Optimization for Machine learning and Imaging (ATOMI), 
     Springer INdAM Series, vol 61, p. 1-14. [DOI:10.1007/978-981-97-6769-4_1](https://doi.org/10.1007/978-981-97-6769-4_1) | [arXiv:2209.12471](https://arxiv.org/abs/2209.12471)
 
-1. T.A. Bubba, G. Easley, **T.H**, D. Labate & J.P. Rodriguez Ayllon,  
+7. T.A. Bubba, G. Easley, **T.H**, D. Labate & J.P. Rodriguez Ayllon,  
     <a name="4dCylindricalShearlet"></a>*Efficient representation of spatio-temporal data using cylindrical shearlets* (2023).  
     Journal of Computational and Applied Mathematics 429, 115206. [DOI:10.1016/j.cam.2023.115206](https://doi.org/10.1016/j.cam.2023.115206)
 
-1. T.A. Bubba, **T.H** & S. Siltanen,  
+8. T.A. Bubba, **T.H** & S. Siltanen,  
     <a name="4D-DTCWT"></a>*4D dual-tree complex wavelets for time-dependent data* (2021).  
     21st International Conference on Computational Science and Its Applications (ICCSA), IEEE, p. 146-156. [DOI:10.1109/ICCSA54496.2021.00029](https://doi.org/10.1109/ICCSA54496.2021.00029)
 
-1. T.A. Bubba, **T.H**, H. Help, S. Huotari, Y. Salmon & S. Siltanen,  
+9. T.A. Bubba, **T.H**, H. Help, S. Huotari, Y. Salmon & S. Siltanen,  
     *Sparse dynamic tomography: Shearlet-based approach for iodine perfusion in plant stems* (2020).  
     Inverse Problems 36, 094002. [DOI:10.1088/1361-6420/ab9c15](https://doi.org/10.1088/1361-6420/ab9c15)
 
@@ -89,4 +93,4 @@ PhD thesis, University of Helsinki, Finland. Dissertationes Universitatis Helsin
 [<img src="images/thesis.jpg" height="200" alt="Dissertation cover">](.images/thesis.jpg) 
 
 ---------
-<span style="font-size:0.8em;">Last edited: May 4, 2026</span>
+<span style="font-size:0.8em;">Last edited: October 20, 2026</span>
